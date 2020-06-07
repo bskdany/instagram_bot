@@ -2,4 +2,4 @@
 
 requires selenium, chromedriver and pynput
 
-I'm newtocoding andthis is my first try to a colplex programm
+I'm newtocoding andthis is my first try to a complex programm
